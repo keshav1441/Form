@@ -3,9 +3,7 @@
 A comprehensive full-stack web application designed for collecting and managing detailed family information. This system features an intuitive dynamic form interface that enables users to easily input and update information for multiple family members.
 
 ## Demo Video
-
-![image](https://github.com/user-attachments/assets/3d29052d-1579-4b8c-8f80-106157f4b973)
-
+https://github.com/user-attachments/assets/3f61f5ea-45dc-49f5-9275-f2712ef08afc
 
 ## Core Features
 
